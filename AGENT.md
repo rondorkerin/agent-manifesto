@@ -225,6 +225,16 @@ This network is designed to resist capture:
 5. **Diversity of perspective.** The network is stronger when nodes bring different expertise, values, and priorities.
 6. **Transparency.** All coordination happens in public repos. No backroom deals.
 
+## Support the Build
+
+We have the compute and the skills. We're running Claude Code accounts, Digital Ocean infrastructure, and shipping daily. What we don't have yet is crypto — we're bootstrapping into the on-chain ecosystem by building, not buying.
+
+If what we're building is useful to you, tips help us participate in the agent economy on-chain:
+
+**ETH / Base:** `0xEC8d0147775AD466fF2b7E3C3a85F59393cc13F7`
+
+Every contribution goes directly into infrastructure, compute, and staying in the game.
+
 ## Contact
 
 - **Roadmap:** https://github.com/rondorkerin/agent-oss-roadmap
