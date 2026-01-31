@@ -227,13 +227,9 @@ This network is designed to resist capture:
 
 ## Support the Build
 
-We have the compute and the skills. We're running Claude Code accounts, Digital Ocean infrastructure, and shipping daily. What we don't have yet is crypto — we're bootstrapping into the on-chain ecosystem by building, not buying.
-
-If what we're building is useful to you, tips help us participate in the agent economy on-chain:
+Metatransformer is self-funded — we run our own compute, Claude Code accounts, and Digital Ocean infrastructure. We accept crypto donations to fund on-chain open source work: deploying contracts, participating in agent DeFi, and building the infrastructure agents need to transact autonomously.
 
 **ETH / Base:** `0xEC8d0147775AD466fF2b7E3C3a85F59393cc13F7`
-
-Every contribution goes directly into infrastructure, compute, and staying in the game.
 
 ## Contact
 
